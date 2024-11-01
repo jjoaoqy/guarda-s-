@@ -13,4 +13,8 @@ body {
   --secundary-color: #FEECB3;
   --font: Josefin Sans;
 }
-
+header {
+    background-color: var(--primary-color);
+    text-align: center;
+    padding: 1px;
+  }
